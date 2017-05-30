@@ -13,6 +13,7 @@
         <module>discovery</module>
         <module>bmw</module>
         <module>getway</module>
+        <module>config</module>
     </modules>
 
     <properties>
